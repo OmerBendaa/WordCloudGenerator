@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/constants/env.constants.ts","./src/controllers/wordcontroller.ts","./src/routes/wordroutes.ts","./src/services/wordservice.ts","./src/types/types.ts","./src/utils/colors.utils.ts","./src/utils/fetchwords.utils.ts"],"version":"5.9.3"}
